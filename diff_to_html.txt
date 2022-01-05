@@ -1,0 +1,3 @@
+text-report layout:side-by-side &
+  options:display-all &
+  output-to:clipboard output-options:html-color %1 %2
